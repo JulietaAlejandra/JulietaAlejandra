@@ -1,0 +1,14 @@
+- 👋🏼 Hola! Soy Julieta.
+- 📚 Estudiante de la Tecnicatura Universitaria en Desarrollo Web de la Universidad Nacional de Entre Ríos.
+- Aprendí a programar en la facultad (2022).
+- Estos son las materias cursadas y los lenguajes y tecnologías aprendidas hasta el momento en las mismas:
+  - INTRODUCCION A LA INFORMATICA.
+  - PROGRAMACION I: Introducción a la programación. Python. Tipos de datos. Funciones y módulos. Estructuras de control. Colecciones y tipos de datos compuestos. Entrada y salida. Paquetes y gestión de código fuente - Paquetes. Biblioteca estándar de Python. Legibilidad, buenas prácticas, documentación, depuración de programas - Sistema de control de versiones: Git - GitHub.
+  - ARQUITECTURA DE COMPUTADORAS.
+  - DISEÑO GRAFICO: Figma, Illustrator. Teoría de Gestalt. Signo marcario. Elementos gráficos. Manual de marca. Vectorización. Diseño web. Diseño de Interacción IxD/UX/UI. Arquetipos. Benchmarking. Heurísticas. Prototipado. Mockups. Behance. Diseño de app.
+  - PROGRAMACION II: Introducción a la POO. Elementos básicos de Python. Objetos y clases. Asociación y dependencia. Encapsulamiento y abstracción. Herencia y polimorfismo. Interfaces gráficas.
+  - BASE DE DATOS: Introducción a BD. MER. MR. Diseño de base de datos relacionales. Lenguajes relacionales - SQL. Normalización. Bases de datos distribuidas. Bases de datos orientadas a objetos. Seguridad de los datos - integridad y control.
+  - INTRODUCCION AL DESARROLLO WEB: Fundamentos de la web. HTML. CSS. JavaScript. Formularios. Diseño web adaptativo y frameworks CSS. Publicación, optimización SEO y accesibilidad. Introducción a ReactJS.
+  - SISTEMAS OPERATIVOS: Clasificación. Funciones, llamadas al SO, protecciones, núcleo. SO GNU/Linux. Procesos - introducción y administración. Algoritmos de planificación de CPU. Concurrencia y paralelismo - comunicación - hilos. Paginación. Segmentación - memoria virtual.
+- 🤓 Actualmente me encuentro colaborando con un proyecto en el Instituto Web.
+- Me encuentro entusiasmada por conseguir mi primer empleo IT.
